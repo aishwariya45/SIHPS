@@ -115,7 +115,7 @@ The GEC Alumni Connect Platform will offer the Government Engineering College a 
 
 
 ## Technology Stack
-```
+
 React.js
 
 Node.js
@@ -127,19 +127,19 @@ Google maps
 Firebox Authenticator
 
 Git , Postman or Insomnia
-```
+
 
 
 
 
 ## Dependencies
-```
+
 Mapping service- 10 days
 
 Data collection- 10 days
 
 budget- rs.50,000
-```
+
 
 
 
